@@ -1,0 +1,22 @@
+wordpath
+========
+
+An interview assignment that the interviewers never
+bothered reviewing, hopefully it can save someone
+else the bother of wasting their time doing pointless
+excercises.
+
+Usage
+-----
+
+`./wordpath.py /path/to/word/file word1 word2`
+
+Requirements
+------------
+
+Python2.7
+
+Test requirements
+-----------------
+
+nose>=1.3.7
